@@ -23,6 +23,22 @@ main>.container-fluid {
     background-attachment: fixed;
     background: url(/img/GridBG.png)
 }
+.bgImageTwo {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background: url(/img/kaPwu0d.png)
+}
+.bgImageThree {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background: url(/img/4IpKG13.png)
+}
 
 .titleText {
     font-family: 'Electrolize', cursive;
